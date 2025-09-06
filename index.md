@@ -11,7 +11,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# ooga booga 
+# Header 1
 ## Header 2
 ### Header 3
 
@@ -33,5 +33,12 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kalutes/CS193_Fall18_Lab1/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
+
+# vikonfire41's First CS193 Homework
+
+- CS193 is a nice way to engage with the TA's directly while working on assignments
+- It allows for a more relaxed setting where everyone can work properly
+- Can go back to lectures if we missed of forgot the content
+- Attendance is leisurely marked with a bigger emphasis on the homework, assignments, and projects
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
